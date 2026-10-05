@@ -8,6 +8,7 @@ I learn by **building, measuring, understanding the mechanism, and improving it*
 
 [![GitHub followers](https://img.shields.io/github/followers/Reziqx1?style=flat&label=followers)](https://github.com/Reziqx1?tab=followers)
 [![Repositories](https://img.shields.io/badge/code-open%20source-181717?logo=github)](https://github.com/Reziqx1?tab=repositories)
+[![Latest release](https://img.shields.io/github/v/release/Reziqx1/termux-gmail-cleaner?display_name=tag&sort=semver)](https://github.com/Reziqx1/termux-gmail-cleaner/releases)
 
 </div>
 
@@ -42,7 +43,7 @@ A safety-first Gmail cleanup CLI built for Android/Termux.
 
 **Principles:** dry run first · explicit mutation · Trash-only · inspectable behavior · reproducible testing
 
-The project has been tested against a real Gmail account on Android/Termux and has CI/security checks across supported Python versions.
+**v0.2.0 is released.** The project has been tested against a real Gmail account on Android/Termux and has CI/security checks across supported Python versions.
 
 ## How I work
 
