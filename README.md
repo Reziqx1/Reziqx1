@@ -1,68 +1,101 @@
-Hey, I'm Rez 👋
-Student developer • Android & Termux • Automation • Systems • AI experiments
-I learn by building things, breaking them, measuring what happened, and improving the system.
+<div align="center">
 
-GitHub
+# Hey, I'm Rez 👋
 
-🧠 What I'm building
-I'm interested in the layer between software, operating systems, devices, and automation.
+### Student developer • Android & Termux • Automation • Systems • AI
 
-Current areas:
+I learn by building things, testing them, understanding the mechanism, and improving the result.
 
-📱 Android internals, ADB, Shizuku, Termux and device tooling
-⚙️ Automation and developer utilities
-🐍 Python and command-line tooling
-🤖 Local AI, AI-assisted development and agent workflows
-🔬 Performance, reproducibility and technical experimentation
-🧩 Personal device intelligence systems
-🛠️ Tech I use & explore
+[![GitHub](https://img.shields.io/badge/GitHub-Reziqx1-181717?style=for-the-badge&logo=github)](https://github.com/Reziqx1)
 
+</div>
 
+---
 
+## 🧠 What I'm building
 
+I'm interested in the layer between **software, operating systems, devices, and automation**.
 
+- 📱 Android internals, ADB, Shizuku, Termux and device tooling
+- ⚙️ Automation and developer utilities
+- 🐍 Python and command-line tooling
+- 🤖 AI-assisted development, local AI and agent workflows
+- 🔬 Performance analysis, reproducibility and technical experimentation
+- 🧩 Personal device-intelligence systems
 
+## 🛠️ Tech I use & explore
 
+**Languages & scripting**
 
+Python · Bash · Shell
 
+**Systems & tooling**
 
-🚀 Selected work
-Personal Device Intelligence
-A long-term project exploring how software can understand, monitor and assist with Android devices using evidence-driven diagnostics, automation and AI.
+Android · Linux · Termux · ADB · Git · GitHub · Shizuku
 
-Focus: device telemetry • ADB • Android tooling • performance analysis • automation
+**AI & developer tooling**
 
-Termux Automation
-Experiments and utilities built directly on Android with Termux, especially around shell automation, Git workflows, APIs and developer tooling.
+Local LLMs · AI coding assistants · automation · agent workflows
 
-Focus: CLI tools • scripting • reproducibility • practical automation
+---
 
-AI-assisted Engineering
-Exploring how local and hosted AI systems can be used as development tools without losing understanding of the underlying code or system.
+## 🚀 Selected work
 
-Focus: local models • agent workflows • code review • automation
+### 📱 Personal Device Intelligence
 
-Projects are added here as they become polished enough to stand on their own.
+A long-term project exploring how software can understand, monitor and assist with Android devices through evidence-driven diagnostics, automation and AI.
 
-📚 How I learn
-I prefer understanding mechanisms over copying solutions.
+**Focus:** device telemetry · ADB · Android tooling · performance analysis · automation
 
-That usually means:
+### ⚙️ Termux Automation
 
-observe → form a hypothesis → test → measure → document → improve
+Practical utilities and experiments built directly on Android, covering shell automation, Git workflows, APIs and developer tooling.
 
-I care about reproducibility, technical accuracy and knowing why something works.
+**Focus:** CLI tools · scripting · reproducibility · practical automation
 
-🌱 Currently learning
-Deeper Python and software engineering
-Linux and Android internals
-Git/GitHub workflows
-Systems-oriented debugging
-AI-assisted development and local AI
-Building maintainable developer tools
-📈 Long-term direction
-My goal is to become a strong systems-minded developer who can move comfortably between:
+### 🤖 AI-assisted Engineering
 
-code → operating system → device → automation → AI
+Exploring how AI can accelerate development while keeping the developer responsible for understanding the code and underlying systems.
 
-Build. Measure. Understand. Improve.
+**Focus:** local models · agent workflows · code review · automation
+
+> Projects appear here when they're developed enough to be useful, understandable and worth sharing.
+
+---
+
+## 📚 How I learn
+
+I prefer **understanding mechanisms over copying solutions**.
+
+My usual loop:
+
+**observe → hypothesize → test → measure → document → improve**
+
+I care about technical accuracy, reproducibility and knowing *why* something works.
+
+---
+
+## 🌱 Currently learning
+
+- Deeper Python and software engineering
+- Linux and Android internals
+- Git and collaborative development workflows
+- Systems-oriented debugging
+- AI-assisted development and local AI
+- Building maintainable developer tools
+
+---
+
+## 🧭 Long-term direction
+
+I want to become a strong systems-minded developer who can move comfortably between:
+
+**code → operating system → device → automation → AI**
+
+---
+
+<div align="center">
+
+### Build. Measure. Understand. Improve.
+
+</div>
