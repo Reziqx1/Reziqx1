@@ -1,96 +1,99 @@
 <div align="center">
 
-# Hey, I'm Rez 👋
+# Hi, I'm Rez 👋
 
-### Student developer • Android & Termux • Automation • Systems • AI
+### Student developer · Android & Termux · Systems · Automation · AI
 
-I learn by building things, testing them, understanding the mechanism, and improving the result.
+I learn by **building, measuring, understanding the mechanism, and improving it**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Reziqx1-181717?style=for-the-badge&logo=github)](https://github.com/Reziqx1)
+[![GitHub followers](https://img.shields.io/github/followers/Reziqx1?style=flat&label=followers)](https://github.com/Reziqx1?tab=followers)
+[![Repositories](https://img.shields.io/badge/code-open%20source-181717?logo=github)](https://github.com/Reziqx1?tab=repositories)
 
 </div>
 
 ---
 
-## 🧠 What I'm building
+## About me
 
-I'm interested in the layer between **software, operating systems, devices, and automation**.
+I'm a student developer interested in the space between:
 
-- 📱 Android internals, ADB, Shizuku, Termux and device tooling
-- ⚙️ Automation and developer utilities
-- 🐍 Python and command-line tooling
-- 🤖 AI-assisted development, local AI and agent workflows
-- 🔬 Performance analysis, reproducibility and technical experimentation
-- 🧩 Personal device-intelligence systems
+**code → operating system → device → automation → AI**
 
-## 🛠️ Tech I use & explore
+Most of my learning happens through practical projects rather than isolated tutorials. I like taking a system apart, forming a hypothesis, testing it, measuring the result, and documenting what I learn.
 
-**Languages & scripting**
+I'm especially interested in software that is useful on real devices and still understandable to the person maintaining it.
+
+## Current focus
+
+| Area | What I'm exploring |
+| --- | --- |
+| 📱 Android & Linux | Termux, ADB, Shizuku, system behavior, device tooling |
+| ⚙️ Automation | CLI utilities, APIs, shell workflows, reproducible tooling |
+| 🐍 Python | Software structure, testing, packaging, error handling |
+| 🤖 AI engineering | Local models, AI-assisted coding, agent workflows |
+| 🔬 Systems thinking | Diagnostics, performance analysis, experiments, evidence |
+| 🧩 Device intelligence | Tools that can understand and assist with Android devices |
+
+## Featured project
+
+### [Termux Gmail Cleaner](https://github.com/Reziqx1/termux-gmail-cleaner)
+
+A safety-first Gmail cleanup CLI built for Android/Termux.
+
+**Principles:** dry run first · explicit mutation · Trash-only · inspectable behavior · reproducible testing
+
+The project has been tested against a real Gmail account on Android/Termux and has CI/security checks across supported Python versions.
+
+## How I work
+
+```text
+observe
+  ↓
+hypothesize
+  ↓
+test
+  ↓
+measure
+  ↓
+document
+  ↓
+improve
+```
+
+I care about:
+
+- understanding **why** something works
+- separating confirmed facts from assumptions
+- reproducible experiments
+- readable code
+- tests that protect behavior
+- automation that fails safely
+
+## Tools I use
+
+**Languages**
 
 Python · Bash · Shell
 
-**Systems & tooling**
+**Systems**
 
-Android · Linux · Termux · ADB · Git · GitHub · Shizuku
+Android · Linux · Termux · ADB · Shizuku
 
-**AI & developer tooling**
+**Developer tooling**
 
-Local LLMs · AI coding assistants · automation · agent workflows
+Git · GitHub · CLI tools · APIs · local development environments
 
----
+**AI**
 
-## 🚀 Selected work
+Local LLMs · AI coding assistants · agent workflows
 
-### 📱 Personal Device Intelligence
+## Longer-term direction
 
-A long-term project exploring how software can understand, monitor and assist with Android devices through evidence-driven diagnostics, automation and AI.
+I want to become a strong systems-minded developer who can comfortably move across multiple layers of a problem:
 
-**Focus:** device telemetry · ADB · Android tooling · performance analysis · automation
+**application → API → OS → device → automation → intelligent tooling**
 
-### ⚙️ Termux Automation
-
-Practical utilities and experiments built directly on Android, covering shell automation, Git workflows, APIs and developer tooling.
-
-**Focus:** CLI tools · scripting · reproducibility · practical automation
-
-### 🤖 AI-assisted Engineering
-
-Exploring how AI can accelerate development while keeping the developer responsible for understanding the code and underlying systems.
-
-**Focus:** local models · agent workflows · code review · automation
-
-> Projects appear here when they're developed enough to be useful, understandable and worth sharing.
-
----
-
-## 📚 How I learn
-
-I prefer **understanding mechanisms over copying solutions**.
-
-My usual loop:
-
-**observe → hypothesize → test → measure → document → improve**
-
-I care about technical accuracy, reproducibility and knowing *why* something works.
-
----
-
-## 🌱 Currently learning
-
-- Deeper Python and software engineering
-- Linux and Android internals
-- Git and collaborative development workflows
-- Systems-oriented debugging
-- AI-assisted development and local AI
-- Building maintainable developer tools
-
----
-
-## 🧭 Long-term direction
-
-I want to become a strong systems-minded developer who can move comfortably between:
-
-**code → operating system → device → automation → AI**
+I'm still learning, so this profile is intentionally about the work and the process rather than claiming expertise I haven't earned yet.
 
 ---
 
