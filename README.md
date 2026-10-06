@@ -43,7 +43,7 @@ A safety-first Gmail cleanup CLI built for Android/Termux.
 
 **Principles:** dry run first · explicit mutation · Trash-only · inspectable behavior · reproducible testing
 
-**v0.2.0 is released.** The project has been tested against a real Gmail account on Android/Termux and has CI/security checks across supported Python versions.
+**v0.3.0 is released.** The project has been tested against a real Gmail account on Android/Termux and has CI/security checks across supported Python versions.
 
 ## How I work
 
